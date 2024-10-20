@@ -15,7 +15,9 @@ Learning and using Node Js
 
 # Use VS Code to Practise
 
-- Use Exercise Files
+- Use Exercise Files(Use to practise Do not copy or reproduce)
+- For more refer to the following course:
+  # https://www.linkedin.com/learning/node-js-essential-training-14888164?trk=share_android_course_learning&shareId=kfH9MgqtSsKbl2eOiS79rQ%3D%3D
 
 
   
